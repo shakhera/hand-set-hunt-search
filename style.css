@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.card-header {
+    height: 450px;
+    width: 100%;
+    background-image: url('https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2019/02/foldables.webp?ssl=1&quality=80&w=f');
+    background-repeat: no-repeat;
+    background-position: center;
+    backface-visibility: inherit;
+    background-size: 50%;
+}
